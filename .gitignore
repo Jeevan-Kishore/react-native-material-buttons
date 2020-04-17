@@ -1,5 +1,5 @@
 node_modules
 *.lock
-
+.idea
 .DS_Store
 *.sw[po]
